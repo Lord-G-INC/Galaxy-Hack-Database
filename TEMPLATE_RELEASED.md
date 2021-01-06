@@ -13,6 +13,9 @@ Insert Total Star Count Here
 Community Rating: [DO NOT TOUCH]<br/>
 Community Leader Rating: [DO NOT TOUCH]
 
+### Credits
+Insert people you want to credit here
+
 ### Gallery
 ![Hack Screenshot](Link to screenshot here)
 
