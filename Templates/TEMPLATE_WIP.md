@@ -2,7 +2,7 @@
 ![Hack Logo](Hack Logo Link Here)
 ### Pick 1: (Hack Member 1, Hack Member 2, etc) OR (Hack Team Name)
 
-Insert hack description here
+Insert hack description here. Try to specify if this is a SMG1 or SMG2 hack
 
 ### Information
 Insert Total Level Count Here<br/>
