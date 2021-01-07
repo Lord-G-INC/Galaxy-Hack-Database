@@ -1,4 +1,4 @@
-# Insert Hack Name Here
+```# Insert Hack Name Here
 ![Hack Logo](Hack Logo Link Here)
 ### Pick 1: (Hack Member 1, Hack Member 2, etc) OR (Hack Team Name)
 
@@ -19,4 +19,4 @@ Insert people you want to credit here
 ### Gallery
 ![Hack Screenshot](Link to screenshot here)
 
-Add as many screenshots as you like :) !!! Delete this line when you are done
+Add as many screenshots as you like :) !!! Delete this line when you are done```
