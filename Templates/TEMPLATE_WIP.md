@@ -1,4 +1,5 @@
-```# Insert Hack Name Here
+```
+# Insert Hack Name Here
 ![Hack Logo](Hack Logo Link Here)
 ### Pick 1: (Hack Member 1, Hack Member 2, etc) OR (Hack Team Name)
 
