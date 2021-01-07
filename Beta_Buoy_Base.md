@@ -10,8 +10,8 @@ Restores an old version of Buoy Base Galaxy that was found in the files
 
 [Download](https://www.youtube.com/watch?v=tEBkhUzK8vQ)
 
-Community Rating: [DO NOT TOUCH]<br/>
-Community Leader Rating: [DO NOT TOUCH]
+Community Rating: Not Yet Rated<br/>
+Community Leader Rating: Not Yet Rated
 
 ### Credits
 SPG64 for testing
