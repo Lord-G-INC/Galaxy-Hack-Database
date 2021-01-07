@@ -13,10 +13,10 @@ Now, Mario must navigate through Wasteland and defeat the Almighty Bowser once a
 Release Date: 2021/4/25 (April 25th, 2021)
 
 ### Credits
-YawningDog
-VariablePlayzYT
-Creator of Content
-Teachan
+YawningDog<br/>
+VariablePlayzYT<br/>
+Creator of Content<br/>
+Teachan<br/>
 NotJorge
 
 ### Gallery
