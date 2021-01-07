@@ -13,3 +13,4 @@ We're talking levels here. So if it's a level, you're free to add it using the s
 - Github has a Filesize Limit, so keep your images under 100MB. If your images break in the preview, try making them smaller
 - If your hack is released in any capacity, use the Release Template
 - Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](Video Link here)
+- When adding your entry DO NOT DO ANYTHING OTHER THAN ADDING YOUR FILE!! PRs WILL NOT BE ACCEPTED IF THEY HAVE MORE THAN ONE COMMIT!
