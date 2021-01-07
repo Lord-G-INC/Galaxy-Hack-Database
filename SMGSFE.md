@@ -9,8 +9,8 @@ This Mod is a Restoration about StarMan Fortress, the biggest unused planet in t
 
 [Download](http://www.mediafire.com/file/sen2yzo6s15hag4/StarManFortSMG.zip/file)
 
-Community Rating: [DO NOT TOUCH]<br/>
-Community Leader Rating: [DO NOT TOUCH]
+Community Rating: Not Yet Rated<br/>
+Community Leader Rating: Not Yet Rated
 
 ### Credits
 Aurelienbkt for the logo<br/>
