@@ -14,3 +14,17 @@ We're talking levels here. So if it's a level, you're free to add it using the s
 - If your hack is released in any capacity, use the Release Template
 - Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](Video Link here)
 - When adding your entry DO NOT DO ANYTHING OTHER THAN ADDING YOUR FILE!! PRs WILL NOT BE ACCEPTED IF THEY HAVE CHANGES THAT ARE MADE TO FILES OTHER THAN YOUR OWN HACK
+
+
+# Tags
+super mario galaxy custom levels
+
+super mario galaxy custom levels download
+
+super mario galaxy 2 custom levels
+
+super mario galaxy 2 custom levels download
+
+super mario galaxy hacking
+
+super mario galaxy 2 hacking
