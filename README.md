@@ -7,3 +7,9 @@ To add your hack, Fork the repository and create a new file. The file should be 
 
 # What counts as a "Hack"
 We're talking levels here. So if it's a level, you're free to add it using the steps above.<br/>Level Collections (Such as Neo Mario Galaxy) are also allowed.<br/>Dead or Cancelled hacks (Such as SMG2.5) are not allowed.
+
+# Entry Guidelines
+- The download must be a direct download, or a link to a file hosting site, like MEGA.nz. **Do Not Link Videos For this**
+- Github has a Filesize Limit, so keep your images under 100MB. If your images break in the preview, try making them smaller
+- If your hack is released in any capacity, use the Release Template
+- Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](Video Link here)
