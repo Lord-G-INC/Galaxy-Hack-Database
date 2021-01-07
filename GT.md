@@ -1,6 +1,6 @@
 # GalaxyToon
-![Hack Logo](https://m.gjcdn.net/game-thumbnail/500/572053-crop1_0_1281_720-tjysgxsx-v4.webp)
-### Pick 1: EpikUniverseKids
+![Hack Logo](https://i.imgur.com/kspOzUA.png)
+### Created By EpikUniverseKids
 
 GalaxyToon is a Mod for Super Mario Galaxy 2 and it takes place in the world of Wasteland (Epic Mickey Series).
 Mario has entered Wasteland due to the actions of his enemy, Bowser.
