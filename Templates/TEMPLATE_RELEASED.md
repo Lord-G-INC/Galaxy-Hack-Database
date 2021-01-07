@@ -20,4 +20,5 @@ Insert people you want to credit here
 ### Gallery
 ![Hack Screenshot](Link to screenshot here)
 
-Add as many screenshots as you like :) !!! Delete this line when you are done```
+Add as many screenshots as you like :) !!! Delete this line when you are done
+```
