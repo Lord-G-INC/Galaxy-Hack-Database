@@ -14,7 +14,7 @@ Release Date: N/A
 Aurum - Testing, Programming<br/>
 Super Hackio - Lead Programmer, Text Writer<br/>
 TheGreatWaluigi - Hack Creator, Testing<br/>
-Zyphro - Model importing, Lead Audio, Lead level design, Lead Text Writer<br/>
+Zyphron G. - Model importing, Lead Audio, Lead level design, Lead Text Writer<br/>
 Cameras Edited with Launch Cam Plus by Super Hackio
 
 ### Gallery
