@@ -1,6 +1,6 @@
 # Super Mario Galaxy 69
 ![shhs](https://media.discordapp.net/attachments/709179281695178813/796535400209580072/hdh.png)
-### Gabbo
+### By: Gabbo
 
 This was my first SMG2 custom level I've ever made. Looking at some reviews, it seems pretty hard. It's not that great, especially aesthetically, But I remember that I put a lot of effort at the time. 
 
@@ -10,8 +10,8 @@ This was my first SMG2 custom level I've ever made. Looking at some reviews, it 
 
 [Download](https://www.mediafire.com/file/mt6e3dorfx1ttyr/Super_Mario_Galaxy_69.zip/file)
 
-Community Rating: [DO NOT TOUCH]<br/>
-Community Leader Rating: [DO NOT TOUCH]
+Community Rating: Not yet rated<br/>
+Community Leader Rating: Not yet rated
 
 ### Credits
 Tater-Tot Tunes for the music https://www.youtube.com/watch?v=INe8EFD6i34
