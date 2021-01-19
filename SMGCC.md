@@ -12,7 +12,7 @@ All 42 Galaxies<br/>
 
 [V1.2 Download](https://www.mediafire.com/file/uaqb6ttybpms7c6/Super_Mario_Galaxy_Cosmic_Chaos_-_v1.2.zip/file)
 
-Community Rating: Not Rated Yet<br/>
+Community Rating: Not Yet Rated<br/>
 Community Leader Rating: Not Rated Yet
 
 ### Credits:
