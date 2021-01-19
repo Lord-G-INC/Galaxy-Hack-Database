@@ -1,4 +1,4 @@
-Pipeground Galaxy is a SMG2 Standalone Galaxy themed around Pipes and their unique, previously unknown functionalities.# Galaxy-Hack-Database
+# Galaxy-Hack-Database
 A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 
 # List of hacks
