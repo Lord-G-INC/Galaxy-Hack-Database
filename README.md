@@ -33,7 +33,7 @@ We're talking levels here. So if it's a level, you're free to add it using the s
 - If your hack is released in any capacity, use the Release Template
 - Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](Video Link here)
 - README table entries should in the order the files show up on GitHub (in alphabetical order of the filenames)
-- When adding your entry DO NOT DO ANYTHING OTHER THAN ADDING YOUR FILE AND ADDING YOUR HACK TO THE README! PRs WILL NOT BE ACCEPTED IF THEY HAVE CHANGES THAT ARE MADE TO FILES OTHER THAN YOUR OWN HACK
+- When adding your entry DO NOT DO ANYTHING OTHER THAN ADDING YOUR FILE! PRs WILL NOT BE ACCEPTED IF THEY HAVE CHANGES THAT ARE MADE TO FILES OTHER THAN YOUR OWN HACK
 
 
 # Tags
