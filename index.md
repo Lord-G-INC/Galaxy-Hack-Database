@@ -12,6 +12,7 @@ A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 | [Super Mario Galaxy 69](https://ionicpixels.github.io/Galaxy-Hack-Database/Released/SMG69) | This was my first SMG2 custom level I've ever made. Looking at some reviews, it seems pretty hard. It's not that great, especially aesthetically, But I remember that I put a lot of effort at the time. | Not Yet Rated | Gabbo |
 | [Super Mario Galaxy: Cosmic Chaos](https://ionicpixels.github.io/Galaxy-Hack-Database/Released/SMGCC) | Super Mario Galaxy: Cosmic Chaos will be a full 121 star hack that features level (but mostly Comets and Purple Comets) that have been completely changed from the original SMG1. | Not Yet Rated | PudvahCrew (Tristan) |
 | [Super Mario Galaxy StarMan Fortress Edition](https://ionicpixels.github.io/Galaxy-Hack-Database/Released/SMGSFE) | This Mod is a Restoration about StarMan Fortress, the biggest unused planet in the game. I made this mod for pure fun. | Not Yet Rated | Gabbo |
+| [Super Mario Galaxy 2: Master Mode](https://ionicpixels.github.io/Galaxy-Hack-Database/Released/SMG2Master) | A SMG2 mod that is meant to be harder than the vanilla game but not kaizo hard. Will you be a Master of the Galaxies ? | Not Yet Rated | EterSky |
 
 ### Unreleased/Cancelled
 
