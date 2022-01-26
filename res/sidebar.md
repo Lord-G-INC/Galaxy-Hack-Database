@@ -1,0 +1,21 @@
+- **Super Mario Galaxy Hack Database**
+- [Main Page](/)
+- [Templates](/Templates)
+- **Released**
+- [Beta Buoy Base](/Released/Beta_Buoy_Base)
+- [Pipegrounds](/Released/Pipeground)
+- [SMG69](/Released/SMG69)
+- [SMGCC](/Released/SMGCC)
+- [SMG2: Starmans Fortress](/Released/SMGSFE)
+- [SMG2: Master Mode](/Released/SMG2Master)
+- **Unreleased**
+- [GalaxyToon](/Unreleased/GT)
+- [Super Mario 3D Galaxy](/Unreleased/SM3DG)
+- [Super Mario Galaxy Arcade](/Unreleased/SMGA)
+- **Cancelled**
+- [SMG2: More](/Cancelled/SMG2More)
+
+- **Links**
+- [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/IonicPixels/Galaxy-Hack-Database)
+- [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.com/invite/r8h5vAm2JC)
+- [About](about)
