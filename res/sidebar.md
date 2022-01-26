@@ -1,5 +1,5 @@
-- **Super Mario Galaxy Hack Database**
-- [Main Page](/)
+- **Main**
+- [Super Mario Galaxy Hack Database](/MainPage)
 - [Templates](/Templates)
 - **Released**
 - [Beta Buoy Base](/Released/Beta_Buoy_Base)
