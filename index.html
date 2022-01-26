@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="description" content="A Database to keep track of all the Super Mario Galaxy mods released and/or WIP">
+    <title>Super Mario Galaxy Hack Database</title>
+    <link rel="icon" href="docs/assets/img/favicon.ico">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="docs/assets/css/main.css">
+
+    <!-- Alternate Stylesheets -->
+    <link rel="stylesheet" href="res/css/dark.css" title="Dark" disabled>
+    <link rel="stylesheet" href="res/css/light.css" title="Light" disabled>
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <!-- JavaScript -->
+    <script>
+        window.$docsify = {
+            // GENERAL
+            // -----------------------------------------------------------------
+            name        : 'Super Mario Galaxy Hack Database',
+            homepage    : 'index.md',
+            logo        : 'res/img/logo.png',
+            loadNavbar  : 'res/toggle.md',
+            mergeNavbar : false,
+            alias       : {
+                // Original - English
+                '/'                                                   : 'index.md',
+                '/introduction'                                       : 'imdex.md',
+            },
+
+            // NAVIGATION
+            // -----------------------------------------------------------------
+            auto2top   : true,
+            maxLevel   : 4,
+            subMaxLevel: 4,
+
+            // PLUGINS
+            // -----------------------------------------------------------------
+            executeScript: true,
+            search: {
+                depth      : 3,
+                noData     : 'No results!',
+                placeholder: 'Search...'
+            },
+            themeable    : {
+                readyTransition : true,
+                responsiveTables: true
+            },
+            tabs: {
+                persist    : true,
+                sync       : true
+            }
+        };
+    </script>
+    <script src="res/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+</body>
+</html>
