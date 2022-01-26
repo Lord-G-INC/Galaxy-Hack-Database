@@ -9,7 +9,7 @@ Will you be a Master of the Galaxies ?
 80 Stars
 
 ### Download
-https://www.mediafire.com/file/e7cwdjsumbmugmu/SMG2+Master+Mode+1.2.zip/file
+[Version 1.2 (Latest)](https://www.mediafire.com/file/e7cwdjsumbmugmu/SMG2+Master+Mode+1.2.zip/file)
 
 Community Rating: [DO NOT TOUCH]<br/>
 Community Leader Rating: [DO NOT TOUCH]
@@ -20,5 +20,4 @@ Aurelienbkt for making the logo<br/>
 IonicPixels for helping me implement the logo
 
 ### Gallery
-Latest Trailer:
-https://www.youtube.com/watch?v=fh_k1qAzTwU
+[Latest Trailer](https://www.youtube.com/watch?v=fh_k1qAzTwU)
