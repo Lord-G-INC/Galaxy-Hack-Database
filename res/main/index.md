@@ -19,10 +19,10 @@ A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 
 | Name | Description | Community Rating | Author |
 | --- | --- | --- | --- | 
-| [GalaxyToon](https://ionicpixels.github.io/Galaxy-Hack-Database/Unreleased/GT) | GalaxyToon is a Mod for Super Mario Galaxy 2 and it takes place in the world of Wasteland (Epic Mickey Series). Mario has entered Wasteland due to the actions of his enemy, Bowser. Now, Mario must navigate through Wasteland and defeat the Almighty Bowser once again. | Unreleased | EpikUniverseKids |
-| [Super Mario 3D Galaxy](https://ionicpixels.github.io/Galaxy-Hack-Database/Unreleased/SM3DG) | Super Mario 3D World stages in Super Mario Galaxy 2 with new twists and challenges! | Unreleased | Super Hackio, TheGreatWaluigi, Zyphron G. |
-| [Super Mario Galaxy 2 More](https://ionicpixels.github.io/Galaxy-Hack-Database/Cancelled/SMG2More) | Super Mario Galaxy 2 More is a mod for Super Mario Galaxy 2 which adds new levels, new comets, and new planets. | Cancelled | SMG2 More Team |
-| [Super Mario Galaxy Arcade](https://ionicpixels.github.io/Galaxy-Hack-Database/Unreleased/SMGA) | Super Mario Galaxy Arcade is a Super Mario Galaxy 2 hack that completely breaks the core game to provide a unique gameplay experience with all new levels, programatically and visually! | Unreleased | SMG.A-Team |
+| [GalaxyToon](Unreleased/GT) | GalaxyToon is a Mod for Super Mario Galaxy 2 and it takes place in the world of Wasteland (Epic Mickey Series). Mario has entered Wasteland due to the actions of his enemy, Bowser. Now, Mario must navigate through Wasteland and defeat the Almighty Bowser once again. | Unreleased | EpikUniverseKids |
+| [Super Mario 3D Galaxy](Unreleased/SM3DG) | Super Mario 3D World stages in Super Mario Galaxy 2 with new twists and challenges! | Unreleased | Super Hackio, TheGreatWaluigi, Zyphron G. |
+| [Super Mario Galaxy 2 More](Cancelled/SMG2More) | Super Mario Galaxy 2 More is a mod for Super Mario Galaxy 2 which adds new levels, new comets, and new planets. | Cancelled | SMG2 More Team |
+| [Super Mario Galaxy Arcade](Unreleased/SMGA) | Super Mario Galaxy Arcade is a Super Mario Galaxy 2 hack that completely breaks the core game to provide a unique gameplay experience with all new levels, programatically and visually! | Unreleased | SMG.A-Team |
 
 # How to add your hack
 To add your hack, Fork the repository and create a new file. The file should be named after your hack. For example, if your hack is named Super Mario Galaxy 3 then your filename would be `SMG3.md`. Use one of the Template files in this Repository as a base for your file. Use the WIP one for an unfinished hack. When you are done, make a Pull Request. If your hack is approved, it will be added to the main repository
