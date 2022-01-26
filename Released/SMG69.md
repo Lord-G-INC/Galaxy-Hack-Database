@@ -14,7 +14,7 @@ Community Rating: Not Yet Rated<br/>
 Community Leader Rating: Not Yet Rated
 
 ### Credits
-Tater-Tot Tunes for the music https://www.youtube.com/watch?v=INe8EFD6i34
+Tater-Tot Tunes for the [music](https://www.youtube.com/watch?v=INe8EFD6i34)
 
 ### Gallery
 [Youtube Video Trailer](https://www.youtube.com/watch?v=B5CxuZS8nvw)<br/>
