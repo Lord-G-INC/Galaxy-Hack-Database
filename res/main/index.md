@@ -33,7 +33,7 @@ We're talking levels here. So if it's a level, you're free to add it using the s
 # Entry Guidelines
 - The download must be a direct download, or a link to a file hosting site, like MEGA.nz. **Do Not Link Videos For this**
 - Github has a Filesize Limit, so keep your images under 100MB. If your images break in the preview, try making them smaller
-- If your hack is released in any capacity, use the Release Template
-- Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](Video Link here)
+- If your hack is released in any capacity, use the [Release Template](Templates/TEMPLATE_RELEASED)
+- Videos such as trailers and showcases are to be linked inside the Gallery section. Each link must declare the video hosting site. Example: [My epic trailer on YouTube](https://www.youtube.com/watch?v=ntN_2l8hKug)
 - README table entries should in the order the files show up on GitHub (in alphabetical order of the filenames)
 - When adding your entry DO NOT DO ANYTHING OTHER THAN ADDING YOUR FILE! PRs WILL NOT BE ACCEPTED IF THEY HAVE CHANGES THAT ARE MADE TO FILES OTHER THAN YOUR OWN HACK
