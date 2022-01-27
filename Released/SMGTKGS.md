@@ -1,5 +1,5 @@
 # Super Mario Galaxy: The Kaizo Green Stars
-![SMGTKGS Logo](https://discord.com/main/im_/https://media.discordapp.net/attachments/713356306572115990/935947553734795304/TKGS_Logo.png)
+![SMGTKGS Logo](https://media.discordapp.net/attachments/713356306572115990/935947553734795304/TKGS_Logo.png)
 ### By Evanbowl
 
 (To be added)
