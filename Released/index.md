@@ -7,3 +7,4 @@ This section contains RELEASED mods. If they get updated, downloads will be upda
 * [Super Mario Galaxy: Cosmic Chaos](Released/SMGCC)
 * [Super Mario Galaxy StarMan Fortress Edition](Released/SMGSFE)
 * [Super Mario Galaxy 2: Master Mode](Released/SMG2Master)
+* [Super Mario Galaxy: The Kaizo Green Stars](Released/SMGTKGS)

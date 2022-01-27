@@ -11,8 +11,8 @@ Will you be a Master of the Galaxies ?
 ### Download
 [Version 1.2 (Latest)](https://www.mediafire.com/file/e7cwdjsumbmugmu/SMG2+Master+Mode+1.2.zip/file)
 
-Community Rating: [DO NOT TOUCH]<br/>
-Community Leader Rating: [DO NOT TOUCH]
+Community Rating: Not Yet Rated<br/>
+Community Leader Rating: Not Yet Rated
 
 ### Credits
 Dante71, keegansimyh and Evanbowl for playtesting<br/>

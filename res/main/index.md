@@ -8,6 +8,7 @@ A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 
 | Name | Description | Community Rating | Author |
 | --- | --- | --- | --- | 
+| [Super Mario Galaxy: The Kaizo Green Stars](Released/SMGTKGS) | (Description to be added) | Not Yet Rated | Evanbowl |
 | [Beta Buoy Base](Released/Beta_Buoy_Base) | Restores an old version of Buoy Base Galaxy that was found in the files | Not Yet Rated | IonicPixels |
 | [Super Mario Galaxy: Cosmic Chaos](Released/SMGCC) | Super Mario Galaxy: Cosmic Chaos will be a full 121 star hack that features level (but mostly Comets and Purple Comets) that have been completely changed from the original SMG1. | Not Yet Rated | PudvahCrew (Tristan) |
 
