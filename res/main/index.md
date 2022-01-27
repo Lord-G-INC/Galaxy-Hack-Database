@@ -1,4 +1,4 @@
-## Super Mario Galaxy Hack Database
+# Super Mario Galaxy Hack Database
 
 A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 
@@ -35,4 +35,4 @@ A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 | --- | --- | --- | --- | 
 | [Super Mario Galaxy 2 More](Cancelled/SMG2More) | Super Mario Galaxy 2 More is a mod for Super Mario Galaxy 2 which adds new levels, new comets, and new planets. | Cancelled | SMG2 More Team |
 
-# If you want to add your own hack, click [here](/Other) for instructions.
+## If you want to add your own hack, click [here](/Other) for instructions.
