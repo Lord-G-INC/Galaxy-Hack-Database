@@ -1,5 +1,5 @@
 - ![Themes](https://icongr.am/material/brightness-6.svg?color=A9A9A9&size=37)
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
-- [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/IonicPixels/Galaxy-Hack-Database)
+- [![GitHub](https://icongr.am/simple/github.svg?color=A9A9A9&size=37)](https://github.com/IonicPixels/Galaxy-Hack-Database)
 - [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.com/invite/r8h5vAm2JC)
