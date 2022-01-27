@@ -1,5 +1,5 @@
+- ![Discord Invite](https://github.com/hacks-guide/Guide-WiiU/blob/master/docs/assets/img/discord.png?raw=true)
+  - <a href="#" >[Troller's Paradise](https://discord.com/invite/r8h5vAm2JC)</a>
 - ![Themes](https://icongr.am/material/brightness-6.svg?color=A9A9A9&size=37)
   - <a href="#" data-link-title="Dark">Dark</a>
   - <a href="#" data-link-title="Light">Light</a>
-- ![Discord Invite](https://github.com/hacks-guide/Guide-WiiU/blob/master/docs/assets/img/discord.png?raw=true)
-  - <a href="#" >[Troller's Paradise](https://discord.com/invite/r8h5vAm2JC)</a>
