@@ -4,6 +4,7 @@
    - [Release Template](/Templates/TEMPLATE_RELEASED)
    - [WIP Template](/Templates/TEMPLATE_WIP)
 - **Released SMG1 Mods**
+- [SMG:TKGS](/Released/SMGTKGS)
 - [Beta Buoy Base](/Released/Beta_Buoy_Base)
 - [SMG: Cosmic Chaos](/Released/SMGCC)
 - **Released SMG2 Mods**
