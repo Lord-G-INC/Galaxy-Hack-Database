@@ -20,6 +20,7 @@ A Database to keep track of all the Super Mario Galaxy mods released and/or WIP
 | [Pipeground Galaxy](Released/Pipeground) | Pipeground Galaxy is a SMG2 Standalone Galaxy themed around Pipes and their unique, previously unknown functionalities. | ⭐⭐⭐⭐⭐ | Super Hackio |
 | [Super Mario Galaxy 69](Released/SMG69) | This was my first SMG2 custom level I've ever made. Looking at some reviews, it seems pretty hard. It's not that great, especially aesthetically, But I remember that I put a lot of effort at the time. | Not Yet Rated | Gabbo |
 | [Super Mario Galaxy StarMan Fortress Edition](Released/SMGSFE) | This Mod is a Restoration about StarMan Fortress, the biggest unused planet in the game. I made this mod for pure fun. | Not Yet Rated | Gabbo |
+| [Cloudy Plains Galaxy](Released/CloudyPlains.md) | Cloudy Plains Galaxy is a 6 star mission based around the Cloud Flower and Wind. This hack is for Super Mario Galaxy 2, and has a custom galaxy slot in World 1. | Not Yet Rated | Floaty |
 
 ### Unreleased
 
