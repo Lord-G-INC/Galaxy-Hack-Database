@@ -12,6 +12,7 @@
 - [Pipeground Galaxy](/Released/Pipeground)
 - [Super Mario Galaxy 69](/Released/SMG69)
 - [SMG2: Starman Fortress](/Released/SMGSFE)
+- [Cloudy Plains Galaxy](/Released/CloudyPlains)
 - **Unreleased**
 - [GalaxyToon](/Unreleased/GT)
 - [Super Mario 3D Galaxy](/Unreleased/SM3DG)
